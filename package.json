@@ -1,0 +1,21 @@
+{
+  "name": "Onlinemusicstore",
+  "version": "1.0.0",
+  "description": "Simple NodeJS app to server music for listening and downloading",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "serve",
+    "music",
+    "in",
+    "express"
+  ],
+  "author": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
